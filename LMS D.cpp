@@ -570,7 +570,7 @@ void updateStudent(string stdNamesList[], string stdRegNoList[], string studentN
 				j++;
 			}
 			else
-			cout<<" Invalid data."<<endl;		
+			cout<<" Invalid data.";		
 		}
 
 	}
